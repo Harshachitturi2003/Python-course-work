@@ -1,0 +1,6 @@
+n=int(input())
+l1=int(input())
+l2=int(input())
+l3=int(input())
+n-=(l1+l2+l3)
+print(n)
