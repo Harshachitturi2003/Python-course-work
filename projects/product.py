@@ -1,3 +1,5 @@
+print("-------------MYNTRA-------------")
+
 product_id = int(input("Enter Product ID: "))
 product_name = input("Enter Product Name: ")
 
